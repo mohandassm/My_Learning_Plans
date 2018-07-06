@@ -1,6 +1,5 @@
 # My_Learning_Plans
-New Technologies 
-
+New CI/CD Technologies to learn
 |S.No| Official Website 	|   CI Tools     	| Source code   	| Availability   	| Platform   	| 
 |----|---------|:------	|:------ |:------	|:------|
 |1|<a href="https://jenkins.io/index.html" target="_blank" >Jenkins</a>|Build great things at any scale.|<a href="https://github.com/jenkinsci" target="_blank" >Jenkins Code</a>|Free|Cross-platform|
